@@ -27,7 +27,7 @@ setup(
     license='MIT',
     keyword="scrapping, indeed, jobs, mongodb",
     url='https://github.com/YacineAll/indeed_mongodb_scrapper',
-    download_url='https://github.com/CITGuru/cver/archive/1.0.0.tar.gz',
+    download_url='https://github.com/YacineAll/indeed_mongodb_scrapper/archive/refs/tags/0.1.0.tar.gz',
     entry_points='''
         [console_scripts]
         indeed_mongodb_scrapper=indeed_mongodb_scrapper.__main__:main
