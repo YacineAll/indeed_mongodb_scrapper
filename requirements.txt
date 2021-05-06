@@ -1,0 +1,4 @@
+pymongo==3.11.3
+tqdm==4.59.0
+requests==2.25.1
+beautifulsoup4==4.9.3
