@@ -1,0 +1,1 @@
+from indeed_mongodb_scrapper import IndeedScrapperMongo

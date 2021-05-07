@@ -3,7 +3,7 @@
 # Installation
 ## Using Pip
 ```bash
-  $ pip install indeed_mongodb_scrapper
+  $ pip install indeed-mongodb-scrapper
 ```
 ## Manual
 ```bash
